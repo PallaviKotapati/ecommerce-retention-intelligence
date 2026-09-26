@@ -77,4 +77,4 @@ Power BI Dashboard
 ![Churn & Risk Analysis](image-2.png)
 
 #### Revenue & Retention
-![Revenue & Retention]![alt text](image-3.png)
+![Revenue & Retention](image-3.png)
