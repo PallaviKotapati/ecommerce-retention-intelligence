@@ -65,16 +65,17 @@ Power BI Dashboard
 
 
 ## 📈 Power BI Dashboard
+
 ### Dashboard Preview
 
 #### Executive Overview
-![Executive Overview](image.png)
+![Executive Overview](images/executive_overview.png)
 
 #### Customer Intelligence
-![Customer Intelligence](image-1.png)
+![Customer Intelligence](images/customer_intelligence.png)
 
 #### Churn & Risk Analysis
-![Churn & Risk Analysis](image-2.png)
+![Churn & Risk Analysis](images/churn_risk.png)
 
 #### Revenue & Retention
-![Revenue & Retention]![alt text](image-3.png)
+![Revenue & Retention](images/revenue_retention.png)
